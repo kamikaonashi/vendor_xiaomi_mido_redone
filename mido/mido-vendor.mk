@@ -1092,9 +1092,9 @@ PRODUCT_PACKAGES += \
     com.qti.dpmframework \
     dpmapi \
     qcrilhook \
-    manifest_android.hardware.drm-service.widevine \
-    manifest_vendor.dolby.hardware.dms \
-    vendor.qti.gnss@4.0-service \
+    manifest_android.hardware.drm-service.widevine.xml \
+    manifest_vendor.dolby.hardware.dms.xml \
+    vendor.qti.gnss@4.0-service.xml \
     chargeonlymode
 
 PRODUCT_PACKAGES += \
